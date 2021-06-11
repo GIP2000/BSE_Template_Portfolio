@@ -15,7 +15,7 @@ The final milestone was deafeating Lord Voldermort, freeing the wizarding world.
 # Second Milestone
 The Second Milestone is learning about horcruxes 
 
-![Horcurxes](https://static.wikia.nocookie.net/harrypotter/images/e/ee/Hallows_Sign.svg/revision/latest/scale-to-width-down/200?cb=20100212084714)
+![Horcurxes](https://qph.fs.quoracdn.net/main-qimg-14991060feb3877e95846e12416fb725)
 
 # First Milestone
 The first milestone was getting into Hogwarts and learning of the wizarding world. 
