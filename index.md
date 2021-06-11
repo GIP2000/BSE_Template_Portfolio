@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Gregory Presser | The Cooper Union | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg)
+![Headstone Image](https://specials-images.forbesimg.com/imageserve/5efa33eed4034b0007bf4b5c/960x0.jpg?fit=scale)
   
 # Final Milestone
 The final milestone was deafeating Lord Voldermort, freeing the wizarding world.  
